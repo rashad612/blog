@@ -3,3 +3,6 @@
 This is my first post testing my blog.
 
 *Extra line*
+
+* 1
+* 2
